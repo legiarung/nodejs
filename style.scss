@@ -1,0 +1,15 @@
+.trung {
+    color: rebeccapurple;
+}
+
+.menu {
+    
+    &__first {
+        color: red;
+    }
+
+    &__second {
+        color: yellow;
+    }
+
+}

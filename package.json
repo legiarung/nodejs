@@ -1,0 +1,33 @@
+{
+  "name": "layout-project-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sass": "^1.29.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legiarung/nodejs.git"
+  },
+  "keywords": [
+    "letrung",
+    "demo",
+    "trung96"
+  ],
+  "author": "letrung96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legiarung/nodejs/issues"
+  },
+  "homepage": "https://github.com/legiarung/nodejs#readme"
+}
